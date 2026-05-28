@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevpdate",
+        "uuid": 25897400,
+        "checksum": "kcekpg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
